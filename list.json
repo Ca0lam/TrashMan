@@ -6,9 +6,9 @@
 			"published": 2003
 		},
 		"2": {
-			"title": "Harry Potter and the Deathly Hallows",
-			"author": "J.K Rowling",
-			"published": 2007
+			"title": "Angels and Demons",
+			"author": "Dan Brown",
+			"published": 2000
 		},
 		"3": {
 			"title": "Harry Potter and the Philosopher's Stone",
@@ -36,9 +36,9 @@
 			"published": 1999
 		},
 		"8": {
-			"title": "Angels and Demons",
-			"author": "Dan Brown",
-			"published": 2000
+			"title": "Harry Potter and the Deathly Hallows",
+			"author": "J.K Rowling",
+			"published": 2007
 		},
 		"9": {
 			"title": "Harry Potter and the Half-blood Prince",
@@ -46,18 +46,18 @@
 			"published": 2005
 		},
 		"10": {
-			"title": "Twilight",
-			"author": "Stephenie Meyer",
-			"published": 2005
+			"title": "Skullduggery Pleasant",
+			"author": "Derek Landy",
+			"published": 2007
 		},
 		"11": {
-			"title": "The Girl with the Dragon Tattoo: Millennium Trilogy",
-			"author": "Stieg Larsson",
-			"published": 2005
+			"title": "Skullduggery Pleasant Playing with fire",
+			"author": "Derek Landy",
+			"published": 2008
 		},
 		"12": {
-			"title": "The Lost Symbol",
-			"author": "Dan Brown",
+			"title": "Skullduggery Pleasnt Faceless Ones",
+			"author": "Derek Landy",
 			"published": 2009
 		}
 	}
